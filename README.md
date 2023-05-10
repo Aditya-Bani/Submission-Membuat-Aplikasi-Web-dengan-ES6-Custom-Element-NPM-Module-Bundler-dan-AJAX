@@ -3,7 +3,7 @@ Ini adalah submission untuk tugas "Membuat Aplikasi Web dengan ES6, Custom Eleme
 
 Langkah-langkah menjalankan aplikasi
 1. Clone repositori ini.
-2. Jalankan npm install untuk menginstal semua dependensi.
+2. Jalankan 'npm install' untuk menginstal semua dependensi.
 3. Jalankan npm run build untuk membangun aplikasi dalam mode produksi menggunakan Webpack.
 4. Buka file index.html pada browser untuk melihat aplikasi berjalan.
 Selamat menggunakan aplikasi web yang telah dibuat!
